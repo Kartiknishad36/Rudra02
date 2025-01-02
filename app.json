@@ -1,12 +1,12 @@
 {
-    "name": "⛦ Frozen music ⛦",
+    "name": "⛦ Kaal music ⛦",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/f0e790de4d84d5b4dab72-bc4dcadff42362281c.jpg",
+    "logo": "https://i.imghippo.com/files/ScF8013pbk.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Brandrd",
+    "Kaal",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
